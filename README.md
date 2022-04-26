@@ -1,6 +1,8 @@
 # profile_page_flutter
+A basic flutter project.
 
-A new Flutter project.
+
+![image](https://user-images.githubusercontent.com/55079966/165287485-89b631c6-70c9-4416-979a-62c4aa8f2f0c.png)
 
 ## Getting Started
 
