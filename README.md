@@ -2,8 +2,7 @@
 A basic flutter project.
 
 
-![image](https://user-images.githubusercontent.com/55079966/165283431-48cb48b4-c497-46e6-a058-494b49c680c4.png)
-
+![image](https://user-images.githubusercontent.com/55079966/165287485-89b631c6-70c9-4416-979a-62c4aa8f2f0c.png)
 
 ## Getting Started
 
